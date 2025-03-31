@@ -1,0 +1,8 @@
+apache-airflow[apache.livy]==2.8.1
+apache-airflow-providers-mysql
+pandas
+pendulum
+pyarrow
+simplejson
+python-dateutil~=2.8.1
+requests~=2.25.1
